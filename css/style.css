@@ -264,7 +264,7 @@ a span:nth-child(4){
    margin-left: 52px;
 }
 .about{
-    background-image: url(/images/main_bg.jpg);
+    background-image: url(../images/main_bg.jpg);
     background-position: center;
     background-size:cover;
     background-repeat: no-repeat;
@@ -337,7 +337,7 @@ a span:nth-child(4){
     display: block;
 }
 .how__to{
-    background-image: url(/images/fon_how_to.jpg);
+    background-image: url(../images/fon_how_to.jpg);
     background-repeat: no-repeat;
     background-position: top center;
     background-size: cover;
@@ -369,7 +369,7 @@ foreignObject{
     text-align: left;
 }
 .to__book{
-    background-image: url(/images/fon_spaceman_beer.jpg);
+    background-image: url(../images/fon_spaceman_beer.jpg);
     background-repeat: no-repeat;
     background-position: top center;
     background-size: cover;
@@ -392,7 +392,7 @@ foreignObject{
     margin-left: 0;
 }
 .info{
-    background-image: url(/images/fon_offer.jpg);
+    background-image: url(../images/fon_offer.jpg);
     background-repeat: no-repeat;
     background-position: top center;
     background-size: cover;
@@ -502,7 +502,7 @@ foreignObject{
     position: absolute;
     right:0;
     bottom: 43px;;
-    background-image: url(/images/15.png);
+    background-image: url(../images/15.png);
     width: 192px;
     height: 150px;
 }
@@ -588,7 +588,7 @@ foreignObject{
     margin-left: auto;
 }
 .footer{
-    background-image: url(/images/footer_bg.jpg);
+    background-image: url(../images/footer_bg.jpg);
     background-position: top center;
     background-repeat: no-repeat;
     background-size: cover;
